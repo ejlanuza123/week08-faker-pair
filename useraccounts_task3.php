@@ -30,7 +30,8 @@ for ($i = 0; $i < 10; $i++) {
         'email' => $email,
         'username' => strtolower($username),
         'password' => hash('sha256', $faker->password), // Encrypts password using SHA-256
-        'account_created' => $faker->dateTimeBetween('-2 years', 'now')->format('Y-m-d H:i:s')
+        'account_created' => $faker->dateTimeBetween('2023-01-01', '2023-12-31')->format('Y-m-d H:i:s')
+
     ];
 }
 ?>
