@@ -30,7 +30,7 @@ Before running the script, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/fake-data-generator.git
+git clone https://github.com/ejlanuza123/fake-data-generator.git
 cd fake-data-generator
 ```
 
@@ -190,11 +190,6 @@ SELECT * FROM Transaction LIMIT 10;
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contributing
 
@@ -204,7 +199,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your-email@example.com).
+For questions or feedback, please contact [Rodrigo Lanuza III](mailto:ejlanuza0123@gmail.com).
 
 ---
 
