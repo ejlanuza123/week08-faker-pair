@@ -7,8 +7,8 @@ use Faker\Factory;
 $faker = Factory::create();
 
 // Define Filipino names manually
-$filipinoFirstNames = ['Juan', 'Maria', 'Jose', 'Katrina', 'Paolo', 'Angel', 'Miguel', 'Luz', 'Cesar', 'Rizalina'];
-$filipinoLastNames = ['Dela Cruz', 'Santos', 'Reyes', 'Garcia', 'Mendoza', 'Gonzales', 'Villanueva', 'Torres', 'Lazaro', 'Ortega'];
+$filipinoFirstNames = ['Juan', 'Maria', 'Jose', 'Katrina', 'Paolo', 'Angel', 'Miguel', 'Luz', 'Cesar', 'Rizalina','Rodrigo','Victor','Mark',];
+$filipinoLastNames = ['Dela Cruz', 'Santos', 'Reyes', 'Garcia', 'Mendoza', 'Gonzales', 'Villanueva', 'Torres', 'Lazaro', 'Ortega','Lanuza','Dato-on','Francico'];
 
 // Define common Philippine cities and provinces
 $philippineLocations = [
