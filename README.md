@@ -104,8 +104,8 @@ This script generates **10 fake user accounts** with:
 ---
 
 ## 📌 Contributors
-- **[Your Name]** (@your-github-username)
-- **[Pair's Name]** (@pair-github-username)
+- **[Rodrigo M. Lanuza III]** (@ejlanuza123)
+- **[Franz Meinard N. Chang]** (@LoztCauz)
 
 ---
 
